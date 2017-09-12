@@ -1,0 +1,11 @@
+{
+    "jscodehints.detectedExclusions": [
+        "D:/Projects/Mobile/IntrActivities/plugins/cordova-plugin-console/tests/tests.js",
+        "D:/Projects/Mobile/IntrActivities/www/js/controllers/HomeController.js",
+        "D:/Projects/Mobile/IntrActivities/www/js/controllers/EventsController.js",
+        "D:/Projects/Mobile/IntrActivities/www/js/controllers/AnnouncementsController.js",
+        "D:/Projects/Mobile/IntrActivities/plugins/cordova-plugin-device/src/blackberry10/index.js",
+        "D:/Projects/Mobile/IntrActivities/plugins/cordova-plugin-device/src/browser/DeviceProxy.js",
+        "D:/Projects/Mobile/IntrActivities/plugins/cordova-plugin-device/src/firefoxos/DeviceProxy.js"
+    ]
+}
